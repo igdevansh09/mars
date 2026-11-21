@@ -1,6 +1,6 @@
-# MASS — Research Studio
+# MARS — Research Studio
 
-MASS is a Streamlit research assistant that searches the web, reads a relevant source, writes a structured report, and provides a critique. Reports can be downloaded as Markdown.
+MARS is a Streamlit research assistant that searches the web, reads a relevant source, writes a structured report, and provides a critique. Reports can be downloaded as Markdown.
 
 ## Setup
 
